@@ -1,5 +1,5 @@
 {
-  "name": "webpack-js-clear-comments-plugin",
+  "name": "webpack-clear-comments-plugin",
   "version": "1.0.0",
   "description": "webpack js注释清除插件",
   "main": "index.js",
